@@ -1,3 +1,5 @@
+The python codes of imma-sort. You can use immasort.py or immasort.ipynb.
+
 ## Usage
 
 Use --help to see usage of immasort.py:
