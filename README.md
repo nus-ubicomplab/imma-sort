@@ -25,3 +25,10 @@ These Matlab codes can be run in following environment:
 -	MOSEK (https://www.mosek.com/).
 
 The details of installing cvx and mosek in Matlab are in http://cvxr.com/cvx/doc/mosek.html
+
+
+@article{lyuimma,
+  title={Imma Sort by two or more attributes with Interpretable Monotonic Multi-Attribute Sorting},
+  author={Lyu, Yan and Gao, Fan and Wu, I-Shuen and Lim, Brian Y},
+  journal={IEEE transactions on visualization and computer graphics}
+}
