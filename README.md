@@ -1,6 +1,6 @@
 This folder contains Matlab codes of the Hastie-Stuetzle principal curve algorithm, generating synthetic data sets, and simulations described in Section 5.3.
 
-![Screenshot](ImmaFontImg_v05.png)
+![Screenshot](figure.png)
 
 PCA_BC_Ranking_Final.m is the main file of Hastie-Stuetzle principal curve algorithm, which depends on the following Matlab functions:
 
