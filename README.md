@@ -33,5 +33,6 @@ If you find this repository useful in your research, please cite the following p
     @article{lyuimma,
       title={Imma Sort by two or more attributes with Interpretable Monotonic Multi-Attribute Sorting},
       author={Lyu, Yan and Gao, Fan and Wu, I-Shuen and Lim, Brian Y},
-      journal={IEEE transactions on visualization and computer graphics}
+      journal={IEEE transactions on visualization and computer graphics},
+      doi={10.1109/TVCG.2020.3043487.}
     }
